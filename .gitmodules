@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/eddiesosera/bb-frontend
+[submodule "bb-frontend"]
+	path = bb-frontend
+	url = https://github.com/eddiesosera/bb-frontend
+[submodule "bb-server"]
+	path = bb-server
+	url = https://github.com/eddiesosera/bb-server
